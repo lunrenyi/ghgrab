@@ -49,6 +49,14 @@ cargo install ghgrab
 pipx install ghgrab
 ```
 
+### X-CMD
+
+Alternatively, install it with [x-cmd](https://www.x-cmd.com/mod/eget), which downloads the pre-built binary from GitHub Releases:
+
+```bash
+x eget use abhixdd/ghgrab
+```
+
 ### Nix
 
 To have the latest commit:
